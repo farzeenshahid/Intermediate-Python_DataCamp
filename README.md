@@ -1,1 +1,1 @@
-# Intermediate-Python_DataCamp
+# Intermediate-Python-DataCamp
